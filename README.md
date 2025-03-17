@@ -37,7 +37,7 @@ columns: ProductID | Name | Price | Stock
 ## **🛠️ Installation**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/NoodleDB.git
+   git clone https://github.com/aasemshokr/NoodleDB.git
    cd NoodleDB
    ```
 2. Open the project in **Visual Studio** or any **C# IDE**.  
