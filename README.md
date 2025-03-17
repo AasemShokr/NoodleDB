@@ -83,6 +83,11 @@ db.UpdateRecord("Users", "ID", "1", new Dictionary<string, string> { { "Age", "2
 db.DeleteRecord("Users", "ID", "1");
 ```
 
+### **Don't Forget to save the changes**  
+```csharp
+db.SaveDatabase();
+```
+
 ---
 
 ## **🔒 Upcoming Features**  
